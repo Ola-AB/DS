@@ -11,6 +11,8 @@ Celem projektu było stworzenie prostej wyszukiwarki napojów.
    
 
 
+
+
 **Zastosowane technologie:**
 
 ![ikony_js](https://github.com/Ola-AB/DrinkSearch/assets/142878084/d14d1435-b34e-4113-b5c5-ab418e4e6cc4)
@@ -19,19 +21,19 @@ Celem projektu było stworzenie prostej wyszukiwarki napojów.
 
 Linkedin - [Olga Burkiewicz](https://www.linkedin.com/in/olga-burkiewicz-990058a4/)
 
-**Przegląd:
+**Przegląd:**
 
-SMARTFON:
+**SMARTFON:**
  
 ![smart](https://github.com/Ola-AB/DrinkSearch/assets/142878084/d35c6b30-eef8-4e8c-aae5-2f8a599188ed)
 
 
-TABLET:
+**TABLET:**
  
 ![tab](https://github.com/Ola-AB/DrinkSearch/assets/142878084/3fdb61f6-73ef-4b61-a7d9-ffc1d6d7d7af)
 
 
-KOMPUTER STACJONARNY:**
+**KOMPUTER STACJONARNY:**
  
 
 ![des](https://github.com/Ola-AB/DrinkSearch/assets/142878084/e82d388c-7fe2-4e87-bab4-01f10057273b)
