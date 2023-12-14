@@ -8,11 +8,12 @@ Celem projektu było stworzenie prostej wyszukiwarki napojów.
 2.	Zastosowano „keyup’a” – czyli wychwycenie tekstu wpisanego w input, co skutkuje wywołaniem funkcji.
 3.	Wpisywany tekst jest sprowadzany do małych liter (toLowerCase), co pozwala na wyszukiwanie, niezależnie czy był wpisany małymi czy dużymi literami.
 4.	Wyszukiwanie odbywa się przy użyciu pętli forEach.
+   
 
 
 **Zastosowane technologie:**
 
-![ikony_js](https://github.com/Ola-AB/DrinkSearch/assets/142878084/603289c8-a1ff-4f3e-a56f-fa590b90fdab)
+![ikony_js](https://github.com/Ola-AB/DrinkSearch/assets/142878084/d14d1435-b34e-4113-b5c5-ab418e4e6cc4)
 
 **Autor:**
 
