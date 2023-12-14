@@ -4,7 +4,7 @@ Celem projektu było stworzenie prostej wyszukiwarki napojów.
 
 **Cechy:**
 
-1.	Strona została zbudowana na podstawie podanego przykładu.
+1.	Aplikacja została zbudowana na podstawie podanego przykładu.
 2.	Zastosowano „keyup’a” – czyli wychwycenie tekstu wpisanego w input, co skutkuje wywołaniem funkcji.
 3.	Wpisywany tekst jest sprowadzany do małych liter (toLowerCase), co pozwala na wyszukiwanie, niezależnie czy był wpisany małymi czy dużymi literami.
 4.	Wyszukiwanie odbywa się przy użyciu pętli forEach.
